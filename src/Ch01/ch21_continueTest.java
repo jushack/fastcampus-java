@@ -10,5 +10,4 @@ public class ch21_continueTest {
 			System.out.println(i);
 		}
 	}
-
 }

@@ -25,5 +25,4 @@ public class ch20_nestedLoopTest {
 			System.out.println();
 		}
 	}
-
 }

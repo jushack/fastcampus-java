@@ -7,5 +7,4 @@ public class ch09 {
 		boolean isMarried = true;
 		System.out.println(isMarried);
 	}
-
 }

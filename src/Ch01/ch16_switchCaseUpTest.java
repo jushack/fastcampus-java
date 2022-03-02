@@ -26,5 +26,4 @@ public class ch16_switchCaseUpTest {
 		};
 		System.out.println(month + "월은 " + day + "일입니다.");
 	}
-
 }

@@ -18,5 +18,4 @@ public class ch18_doWhile {
 		
 		System.out.println(sum);
 	}
-
 }

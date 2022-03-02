@@ -18,5 +18,4 @@ public class ch13_conditionTest {
 		max = (x > y) ? x : y;
 		System.out.println(max);
 	}
-
 }

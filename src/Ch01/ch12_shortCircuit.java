@@ -17,5 +17,4 @@ public class ch12_shortCircuit {
 		System.out.println(num1);
 		System.out.println(i);
 	}
-
 }

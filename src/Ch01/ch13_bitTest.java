@@ -17,5 +17,4 @@ public class ch13_bitTest {
 		System.out.println(num1 <<= 2);
 		System.out.println(num1);
 	}
-
 }

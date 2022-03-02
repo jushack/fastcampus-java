@@ -13,5 +13,4 @@ public class ch19_forTest {
 		}
 		System.out.println(sum);
 	}
-
 }

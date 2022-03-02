@@ -14,5 +14,4 @@ public class ch21_breakTest {
 		System.out.println(sum);
 		System.out.println(n);
 	}
-
 }

@@ -20,7 +20,6 @@ public class ch08 {
 		System.out.println(ch5);
 		System.out.println(ch6);
 	
-	
 	}
 
 }

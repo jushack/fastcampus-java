@@ -15,5 +15,4 @@ public class ch09_localVariableType {
 		str = "test";
 		System.out.println(str);
 	}
-
 }
